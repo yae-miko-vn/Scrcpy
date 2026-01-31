@@ -184,12 +184,6 @@ For bug reports, please read the [FAQ](FAQ.md) first, you might find a solution
 to your problem immediately.
 
 
-You can also use:
-
- - Reddit: [`r/scrcpy`](https://www.reddit.com/r/scrcpy)
- - BlueSky: [`@scrcpy.bsky.social`](https://bsky.app/profile/scrcpy.bsky.social)
- - Twitter: [`@scrcpy_app`](https://twitter.com/scrcpy_app)
-
 ## License
 
     Copyright (C) 2018 Genymobile
